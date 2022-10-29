@@ -1,0 +1,17 @@
+﻿Построение начато 28.10.2022 8:19:36.
+     1>Проект "H:\Вартанов Алексей 21ВВ1\2 курс\отчёты\Алгоритмы и т.д\сдавать!\2 lab для сдачи\2\algoritm2.2\algoritm2.2\algoritm2.2.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\algoritm2.2.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         Для всех выходных данных обновления не требуется.
+         algoritm2.2.vcxproj -> H:\Вартанов Алексей 21ВВ1\2 курс\отчёты\Алгоритмы и т.д\сдавать!\2 lab для сдачи\2\algoritm2.2\Debug\algoritm2.2.exe
+       FinalizeBuildStatus:
+         Файл "Debug\algoritm2.2.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\algoritm2.2.lastbuildstate".
+     1>Построение проекта "H:\Вартанов Алексей 21ВВ1\2 курс\отчёты\Алгоритмы и т.д\сдавать!\2 lab для сдачи\2\algoritm2.2\algoritm2.2\algoritm2.2.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:00.24
